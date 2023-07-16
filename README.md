@@ -1,1 +1,1 @@
-# cs426-agent-based-modelling-and-simulation
+## CS426 Agent-based Modelling And Simulation
