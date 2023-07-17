@@ -1,4 +1,4 @@
-## CS426 Agent-Based Modelling And Simulation (ABMS)
+## SMU CS426 Agent-Based Modelling And Simulation (ABMS)
 
 This repository contains my solutions for a course in agent-based modelling and simulation. This course introduces agent-based modeling and simulation (ABMS) as an approach for studying complex business and social processes. With examples from domains such as transportation, economics, finance, and urban planning, it shows how ABMS can help in better understanding complex business and social phenomena. ABMS systems are particularly powerful if we want to describe a system populated by many independent and heterogeneous decision makers (who can be collaborators or competitors). ABMS systems can also be used in performing policy evaluations and generating decision supports, as we can then computationally test how changes in parameters at different levels would affect various performance indicators.
 
